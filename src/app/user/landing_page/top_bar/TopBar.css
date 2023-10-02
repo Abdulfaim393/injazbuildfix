@@ -6,11 +6,11 @@
 }
 
 .topbar_icons {
-    font-size: 40px;
+    font-size: 40px !important;
     padding: 5px;
     color: white;
     cursor: pointer;
-    transition: 0.3s;
+    transition: 0.3s !important;
 }
 
 .topbar_icons:hover {
